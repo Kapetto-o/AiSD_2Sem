@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\BSTU\\course_1\\AiSD_2\\laboratory_work_1\\fib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83D24CCC-F11D-460A-B761-B920EC82B77E}|fib\\fib.vcxproj|D:\\GitHub\\BSTU\\course_1\\AiSD_2\\laboratory_work_1\\fib\\fib\\fib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83D24CCC-F11D-460A-B761-B920EC82B77E}|fib\\fib.vcxproj|solutionrelative:fib\\fib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fib.cpp",
+              "DocumentMoniker": "D:\\GitHub\\BSTU\\course_1\\AiSD_2\\laboratory_work_1\\fib\\fib\\fib.cpp",
+              "RelativeDocumentMoniker": "fib\\fib.cpp",
+              "ToolTip": "D:\\GitHub\\BSTU\\course_1\\AiSD_2\\laboratory_work_1\\fib\\fib\\fib.cpp",
+              "RelativeToolTip": "fib\\fib.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T16:00:11.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
